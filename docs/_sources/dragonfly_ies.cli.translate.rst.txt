@@ -1,0 +1,7 @@
+dragonfly\_ies.cli.translate module
+===================================
+
+.. automodule:: dragonfly_ies.cli.translate
+   :members:
+   :undoc-members:
+   :show-inheritance:

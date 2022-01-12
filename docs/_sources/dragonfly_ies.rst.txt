@@ -1,0 +1,26 @@
+dragonfly\_ies package
+======================
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   dragonfly_ies.cli
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 4
+
+   dragonfly_ies.writer
+
+Module contents
+---------------
+
+.. automodule:: dragonfly_ies
+   :members:
+   :undoc-members:
+   :show-inheritance:

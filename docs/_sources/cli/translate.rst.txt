@@ -1,0 +1,6 @@
+translate
+=========
+
+.. click:: dragonfly_ies.cli.translate:translate
+   :prog: dragonfly-ies translate
+   :show-nested:

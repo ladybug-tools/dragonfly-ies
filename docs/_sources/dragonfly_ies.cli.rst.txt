@@ -1,0 +1,18 @@
+dragonfly\_ies.cli package
+==========================
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 4
+
+   dragonfly_ies.cli.translate
+
+Module contents
+---------------
+
+.. automodule:: dragonfly_ies.cli
+   :members:
+   :undoc-members:
+   :show-inheritance:

@@ -1,0 +1,7 @@
+main
+====
+
+.. click:: dragonfly_ies.cli.__init__:ies
+   :prog: dragonfly-ies
+   :show-nested:
+   :commands: 
